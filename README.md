@@ -19,24 +19,25 @@ Based on the data modeling and analysis within the dashboard, here are the core 
 ---
 
 ## 🛠️ Tools & Technologies Used
-* [cite_start]**Power BI Desktop:** For data modeling, DAX calculations, and dashboard creation.
-* [cite_start]**Power Query:** For Data Cleaning, Transformation, and ETL processes.
-* [cite_start]**DAX (Data Analysis Expressions):** Used for creating custom measures and calculated columns (e.g., Regional Sales Percentages, Total Revenue).
+* **Power BI Desktop:** For data modeling, DAX calculations, and dashboard creation.
+* **Power Query:** For Data Cleaning, Transformation, and ETL processes.
+* **DAX (Data Analysis Expressions):** Used for creating custom measures and calculated columns (e.g., Regional Sales Percentages, Total Revenue).
 
 ---
 
 ## 📁 Repository Structure
-* [cite_start]📄 `GamingSales.pbix` - The core Power BI project file.
-* [cite_start]📄 `README.md` - Project documentation.
+* 📄 `GamingSales.pbix` - The core Power BI project file.
+* 📄 `README.md` - Project documentation.
 
 ---
 
 ## 🚀 How to Interact with the Dashboard
-1. [cite_start]Download the `GamingSales.pbix` file from this repository.
-2. [cite_start]Install [Power BI Desktop](https://powerbi.microsoft.com/) (Free).
-3. [cite_start]Open the file in Power BI Desktop to explore the interactive filters, tooltips, and pages.
+1. Download the `GamingSales.pbix` file from this repository.
+2. Install [Power BI Desktop](https://powerbi.microsoft.com/) (Free).
+3. Open the file in Power BI Desktop to explore the interactive filters, tooltips, and pages.
 
 ---
 
 ## 📧 Connect with Me
 * **LinkedIn:** [Omar Khaled Al Khyat](https://www.linkedin.com/in/omar-alkhyat/)
+* **Email:** da3mar1812004@gmail.com
